@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+header img {
+  border-radius: 0 0 15px 15px;
+}
+
+header h1 {
+  position: relative;
+  top: 500%;
+}
